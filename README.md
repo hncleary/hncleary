@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+<p align="left">
+  <img
+    src="https://komarev.com/ghpvc/?username=hncleary"
+    alt="hncleary"
+  />
+</p>
+
 <!--
 **hncleary/hncleary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
