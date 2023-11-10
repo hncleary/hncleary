@@ -1,4 +1,4 @@
-### Hi there 👋
+### Howdy 👋
 
 <p align="left">
   <img
@@ -7,17 +7,49 @@
   />
 </p>
 
-<!--
-**hncleary/hncleary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table align="center">
+    <tr>
+        <td colspan="4" align="center">
+          <br>
+            <b>
+              Public Projects
+            </b>
+          <br>
+          Personal projects currently published online
+        </td>
+    </tr>
+    <tr>
+        <td align="right">
+            <img src="./grayson-grappler.png" style="width:120px">
+        </td>
+        <td>
+          <b>
+            Cavern Collapse
+          </b>
+          <br>
+          <div>
+          High score arcade survival game in a collapsing cavern
+          </div>
+          <div>
+          <!-- Links to platforms its published on -->
+          <a href="https://www.newgrounds.com/portal/view/860822" style="display:flex;flex-direction:row;gap:5px;margin-top:5px">
+            <img src="./html5.png" style="width:20px">
+            Web
+          </a>
+          </div>
+        </td>
+        <td align="right">
+          <a href="https://github.com/JujuAdams/input">
+            <img src="./mirror-icon.png" style="width:120px">
+          </a>
+        </td>
+        <td>
+        <a href="http://vanityplate.social/">
+          <b> Vanity Plate Social (WIP)</b>
+        </a>
+        <br>
+        Consolidated retrieval and display of social media stats
+        </td>
+    </tr>
+</table>
+&nbsp;
