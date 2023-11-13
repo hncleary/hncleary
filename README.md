@@ -6,7 +6,6 @@
     alt="hncleary"
   />
 </p>
-
 <table align="center">
     <tr>
         <td colspan="4" align="center">
@@ -20,7 +19,7 @@
     </tr>
     <tr>
         <td align="right">
-            <img src="./grayson-grappler.png" style="width:120px">
+            <img src="./grayson-grappler.png" style="width:60px">
         </td>
         <td>
           <b>
@@ -40,15 +39,30 @@
         </td>
         <td align="right">
           <a href="https://github.com/JujuAdams/input">
-            <img src="./mirror-icon.png" style="width:120px">
+            <img src="./mirror-icon.png" style="width:60px">
           </a>
         </td>
         <td>
-        <a href="http://vanityplate.social/">
-          <b> Vanity Plate Social (WIP)</b>
-        </a>
+        <b> Vanity Plate Social </b>
         <br>
-        Consolidated retrieval and display of social media stats
+        <div>
+          (Work in Progress) Consolidated retrieval and display of social media stats
+        </div>
+        <div style="display:flex;flex-direction:row;gap:15px;margin-top:5px">
+          <!-- Links to platforms its published on -->
+          <a href="http://vanityplate.social/" style="display:flex;flex-direction:row;gap:5px;margin-top:5px">
+            <img src="./globe.png" style="width:20px">
+            Website
+          </a>
+          <a href="https://github.com/hncleary/vanity-plate-ng" style="display:flex;flex-direction:row;gap:5px;margin-top:5px">
+            <img src="./github.png" style="width:20px">
+            Site Source
+          </a>
+          <a href="https://github.com/hncleary/vanity-plate-pr" style="display:flex;flex-direction:row;gap:5px;margin-top:5px">
+            <img src="./github.png" style="width:20px">
+            Retrieval Source
+          </a>
+          </div>
         </td>
     </tr>
 </table>
