@@ -39,7 +39,7 @@
         </td>
         <td align="right">
           <a href="https://github.com/JujuAdams/input">
-            <img src="./mirror-icon.png" style="width:60px">
+            <img src="./vps-logo.png" style="width:60px">
           </a>
         </td>
         <td>
