@@ -19,7 +19,7 @@
     </tr>
     <tr>
         <td align="right">
-            <img src="./grayson-grappler.png" style="width:60px">
+          <img src="./grayson-grappler.png" style="width:60px">
         </td>
         <td>
           <b>
@@ -38,9 +38,7 @@
           </div>
         </td>
         <td align="right">
-          <a href="https://github.com/JujuAdams/input">
-            <img src="./vps-logo.png" style="width:60px">
-          </a>
+          <img src="./vps-logo.png" style="width:60px">
         </td>
         <td>
         <b> Vanity Plate Social </b>
