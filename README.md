@@ -44,7 +44,7 @@
         <b> Vanity Plate Social </b>
         <br>
         <div>
-          (Work in Progress) Consolidated retrieval and display of social media stats
+          Consolidated retrieval and display of social media stats
         </div>
         <div style="display:flex;flex-direction:row;gap:15px;margin-top:5px">
           <!-- Links to platforms its published on -->
