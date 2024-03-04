@@ -29,12 +29,16 @@
           <div>
           High score arcade survival game in a collapsing cavern
           </div>
-          <div>
-          <!-- Links to platforms its published on -->
-          <a href="https://www.newgrounds.com/portal/view/860822" style="display:flex;flex-direction:row;gap:5px;margin-top:5px">
-            <img src="./html5.png" style="width:20px">
-            Web
-          </a>
+          <div style="display:flex;flex-direction:row;gap:15px;margin-top:5px">
+            <!-- Links to platforms its published on -->
+            <a href="https://www.newgrounds.com/portal/view/860822" style="display:flex;flex-direction:row;gap:5px;margin-top:5px">
+              <img src="./html5.png" style="width:20px">
+              Web
+            </a>
+            <a href="https://apps.apple.com/us/app/cavern-collapse/id6451268649" style="display:flex;flex-direction:row;gap:5px;margin-top:5px">
+              <img src="./apple.png" style="width:20px">
+              iOS
+            </a>
           </div>
         </td>
         <td align="right">
