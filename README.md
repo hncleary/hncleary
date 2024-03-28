@@ -39,6 +39,10 @@
               <img src="./apple.png" style="width:20px">
               iOS
             </a>
+            <a href="https://play.google.com/store/apps/details?id=cyranek.com.cyranek.caverncollapse&hl=en_US&gl=US" style="display:flex;flex-direction:row;gap:5px;margin-top:5px">
+              <img src="./android.svg" style="width:20px">
+              Android
+            </a>
           </div>
         </td>
         <td align="right">
