@@ -71,5 +71,31 @@
           </div>
         </td>
     </tr>
+    <tr>
+      <td align="right">
+          <img src="./duuzu_db_logo.png" style="width:60px">
+        </td>
+        <td>
+          <b>
+            Duuzu Key BPM DB
+          </b>
+          <br>
+          <div>
+          Searchabe song key and bpm database website for DJs
+          </div>
+          <div style="display:flex;flex-direction:row;gap:15px;margin-top:5px">
+            <a href="http://duuzudb.com/" style="display:flex;flex-direction:row;gap:5px;margin-top:5px">
+            <img src="./globe.png" style="width:20px">
+            Website
+          </a>
+          <a href="https://github.com/hncleary/duuzu-key-bpm-db" style="display:flex;flex-direction:row;gap:5px;margin-top:5px">
+            <img src="./github.png" style="width:20px">
+            Source
+          </a>
+          </div>
+        </td>
+        <td></td>
+        <td></td>
+    </tr>
 </table>
 &nbsp;
