@@ -56,7 +56,7 @@
         </div>
         <div style="display:flex;flex-direction:row;gap:15px;margin-top:5px">
           <!-- Links to platforms its published on -->
-          <a href="http://vanityplate.social/" style="display:flex;flex-direction:row;gap:5px;margin-top:5px">
+          <a href="http://vanityplate.social/home" style="display:flex;flex-direction:row;gap:5px;margin-top:5px">
             <img src="./globe.png" style="width:20px">
             Website
           </a>
