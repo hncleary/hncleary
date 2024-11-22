@@ -81,7 +81,7 @@
           </b>
           <br>
           <div>
-          Searchabe song key and bpm database website for DJs
+          Searchable song key and bpm database website for DJs
           </div>
           <div style="display:flex;flex-direction:row;gap:15px;margin-top:5px">
             <a href="https://www.duuzudb.com/home" style="display:flex;flex-direction:row;gap:5px;margin-top:5px">
