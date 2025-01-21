@@ -31,6 +31,10 @@
           </div>
           <div style="display:flex;flex-direction:row;gap:15px;margin-top:5px">
             <!-- Links to platforms its published on -->
+            <a href="https://cyranek.itch.io/cavern-collapse" style="display:flex;flex-direction:row;gap:5px;margin-top:5px">
+              <img src="./html5.png" style="width:20px">
+              itch.io
+            </a>
             <a href="https://www.newgrounds.com/portal/view/860822" style="display:flex;flex-direction:row;gap:5px;margin-top:5px">
               <img src="./html5.png" style="width:20px">
               Web
