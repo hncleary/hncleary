@@ -19,7 +19,7 @@
     </tr>
     <tr>
       <td>
-          <img src="./grayson-grappler.png" style="width:30px">
+          <img src="./grayson-grappler.png" style="width:50px">
       </td>
       <td class="display: flex; flex-direction: column;">
         <div><b>Cavern Collapse</b></div>
@@ -49,7 +49,7 @@
     </tr>
     <tr>
       <td>
-          <img src="./vps-logo.png" style="width:30px">
+          <img src="./vps-logo.png" style="width:50px">
       </td>
       <td class="display: flex; flex-direction: column">
         <div><b>Vanity Plate Social</b></div>
@@ -74,7 +74,7 @@
     </tr>
     <tr>
       <td>
-          <img src="./duuzu_db_logo.png" style="width:30px">
+          <img src="./duuzu_db_logo.png" style="width:50px">
       </td>
       <td class="display: flex; flex-direction: column">
         <div><b>Duuzu Key BPM DB</b></div>
