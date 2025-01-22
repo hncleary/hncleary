@@ -25,20 +25,23 @@
         <div><b>Cavern Collapse</b></div>
         <div>High score arcade survival game in a collapsing cavern</div>
       </td>
-      <td>
-        <a href="https://cyranek.itch.io/cavern-collapse" style="display:flex;flex-direction:row;gap:5px;margin-top:5px">
+      <td >
+        <a href="https://cyranek.itch.io/cavern-collapse">
           <img src="./itchio.png" style="width:20px">
           itch.io
         </a>
-        <a href="https://www.newgrounds.com/portal/view/860822" style="display:flex;flex-direction:row;gap:5px;margin-top:5px">
+        <br />
+        <a href="https://www.newgrounds.com/portal/view/860822">
           <img src="./newgrounds.png" style="width:20px">
           Newgrounds
         </a>
-        <a href="https://apps.apple.com/us/app/cavern-collapse/id6451268649" style="display:flex;flex-direction:row;gap:5px;margin-top:5px">
+        <br />
+        <a href="https://apps.apple.com/us/app/cavern-collapse/id6451268649">
           <img src="./apple.png" style="width:20px">
             iOS
           </a>
-          <a href="https://play.google.com/store/apps/details?id=cyranek.com.cyranek.caverncollapse&hl=en_US&gl=US" style="display:flex;flex-direction:row;gap:5px;margin-top:5px">
+        <br />
+          <a href="https://play.google.com/store/apps/details?id=cyranek.com.cyranek.caverncollapse&hl=en_US&gl=US">
             <img src="./android.svg" style="width:20px">
             Android
           </a>
@@ -53,15 +56,17 @@
         <div>Consolidated retrieval and display of social media stats</div>
       </td>
       <td>
-        <a href="https://www.vanityplate.social/home" style="display:flex;flex-direction:row;gap:5px;margin-top:5px">
+        <a href="https://www.vanityplate.social/home">
             <img src="./globe.png" style="width:20px">
             Website
           </a>
-          <a href="https://github.com/hncleary/vanity-plate-ng" style="display:flex;flex-direction:row;gap:5px;margin-top:5px">
+        <br />
+          <a href="https://github.com/hncleary/vanity-plate-ng">
             <img src="./github.png" style="width:20px">
             Site Source
           </a>
-          <a href="https://github.com/hncleary/vanity-plate-pr" style="display:flex;flex-direction:row;gap:5px;margin-top:5px">
+        <br />
+          <a href="https://github.com/hncleary/vanity-plate-pr">
             <img src="./github.png" style="width:20px">
             Retrieval
           </a>
@@ -76,14 +81,15 @@
         <div>Searchable song key and bpm database website for DJs</div>
       </td>
       <td>
-        <a href="https://www.duuzudb.com/home" style="display:flex;flex-direction:row;gap:5px;margin-top:5px">
-            <img src="./globe.png" style="width:20px">
-            Website
-          </a>
-          <a href="https://github.com/hncleary/duuzu-key-bpm-db" style="display:flex;flex-direction:row;gap:5px;margin-top:5px">
-            <img src="./github.png" style="width:20px">
-            Source
-          </a>
+        <a href="https://www.duuzudb.com/home">
+          <img src="./globe.png" style="width:20px">
+          Website
+        </a>
+        <br />
+        <a href="https://github.com/hncleary/duuzu-key-bpm-db">
+          <img src="./github.png" style="width:20px">
+          Source
+        </a>
       </td>
     </tr>
   </table>
