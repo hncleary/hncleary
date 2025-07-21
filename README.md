@@ -8,7 +8,7 @@
 </p>
 <table align="center">
     <tr>
-        <td colspan="4" align="center">
+        <td colspan="6" align="center">
           <br>
             <b>
               Public Projects
@@ -18,6 +18,7 @@
         </td>
     </tr>
     <tr>
+      <!-- Cavern Collapse -->
       <td>
           <img src="./grayson-grappler.png" style="width:50px">
       </td>
@@ -46,8 +47,22 @@
             Android
           </a>
       </td>
+      </tr>
+      <tr>
+      <!-- Ski Freak -->
+      <td>
+        <img src="./ski-freak.png" style="width:50px">
+      </td>
+      <td class="display: flex; flex-direction: column;">
+        <div><b>Ski Freak</b></div>
+        <div>High score arcade game on a hazardous ski slope</div>
+      </td>
+      <td>
+        <p>Coming Soon</p>
+      </td>
     </tr>
     <tr>
+      <!-- Vanity Plate Social -->
       <td>
           <img src="./vps-logo.png" style="width:50px">
       </td>
@@ -71,8 +86,9 @@
             Retrieval
           </a>
       </td>
-    </tr>
-    <tr>
+      </tr>
+      <tr>
+      <!-- Duuzu KeyBpmDB -->
       <td>
           <img src="./duuzu_db_logo.png" style="width:50px">
       </td>
@@ -81,7 +97,7 @@
         <div>Searchable song key and bpm database website for DJs</div>
       </td>
       <td>
-        <a href="https://www.duuzudb.com/home">
+        <a href="https://black-water-0be05fd10.5.azurestaticapps.net/home">
           <img src="./globe.png" style="width:20px">
           Website
         </a>
