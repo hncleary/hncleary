@@ -139,7 +139,7 @@ function getTableRowProjectStr(project: ProjectDetails, linkCells: number): stri
   // Image Cell
   rowStr += `<td><img src="./assets/images/${project.image}" style="width:50px"></td>`;
   // Name + Description
-  rowStr += `<td class="display: flex; flex-direction: column;"><div style="font-size: 14px"><b>${project.displayName}</b></div><div><p style="font-size: 14px">${project.description}</p></div></td>`;
+  rowStr += `<td class="display: flex; flex-direction: column;"><div style="font-size: 14px"><h3>${project.displayName}</h3></div><div style="font-size: 14px">${project.description}</div></td>`;
   // Links
   const linksBatches = getArrayInBatches(project.links, MAX_LINKS_PER_CELL);
   for (let i = 0; i < linkCells; i++) {
