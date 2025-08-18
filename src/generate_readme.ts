@@ -139,14 +139,14 @@ function getTableRowProjectStr(project: ProjectDetails, linkCells: number): stri
   // Image Cell
   rowStr += `<td><img src="./assets/images/${project.image}" style="width:50px"></td>`;
   // Name + Description
-  rowStr += `<td class="display: flex; flex-direction: column;"><div style="font-size: 14px"><h3>${project.displayName}</h3></div><div style="font-size: 14px">${project.description}</div></td>`;
+  rowStr += `<td class="display: flex; flex-direction: column;"><div>${project.displayName}</div><div>${project.description}</div></td>`;
   // Links
   const linksBatches = getArrayInBatches(project.links, MAX_LINKS_PER_CELL);
   for (let i = 0; i < linkCells; i++) {
     let batchCell = '<td class="display: flex; flex-direction: column;">';
     if (linksBatches.length > i) {
       for (const link of linksBatches[i]) {
-        batchCell += `<a style="font-size: 12px; display: flex; flex-direction: row; align-items: flex-start; justify-content: flex-start; " href="${link.link}"><img style="width:20px" src="./assets/icons/${link.icon}" />${link.displayName}</a></br>`;
+        batchCell += `<a style="font-size: 12px; display: flex; flex-direction: row; align-items: flex-start; justify-content: flex-start; " href="${link.link}"><img style="width:20px" src="./assets/icons/${link.icon}" /><div>${link.displayName}</div></a></br>`;
       }
     }
     batchCell += '</td>';
@@ -160,7 +160,7 @@ function getTableStr(projects: ProjectDetails[]): string {
   const linkCells = getMaxLinkCount(projects) / MAX_LINKS_PER_CELL;
   const colSpan = NON_LINK_COLSPAN + linkCells;
   let tableStr = '<table align="center">';
-  tableStr += `<tr><td colspan="${colSpan}" align="center"><br>${TABLE_TITLE}<br>${TABLE_DESC}</td></tr>`;
+  tableStr += `<tr><td colspan="${colSpan}" align="center"><div>${TABLE_TITLE}</div><br /><div>${TABLE_DESC}</div></td></tr>`;
   for (const p of projects) {
     tableStr += getTableRowProjectStr(p, linkCells);
   }
