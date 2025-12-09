@@ -43,6 +43,23 @@ export const DEFINED_PROJECTS: ProjectDetails[] = [
     ],
   },
   {
+    displayName: 'Void Miner',
+    image: 'void_miner.png',
+    description: 'Infinite asteroid mining in cold dark space',
+    links: [
+      {
+        displayName: 'itch.io',
+        link: 'https://cyranek.itch.io/void-miner',
+        icon: 'itchio.png',
+      },
+      {
+        displayName: 'Newgrounds',
+        link: 'https://www.newgrounds.com/portal/view/1007771',
+        icon: 'newgrounds.png',
+      },
+    ],
+  },
+  {
     displayName: 'Ski Freak',
     image: 'ski-freak.png',
     description: 'Coming Soon',

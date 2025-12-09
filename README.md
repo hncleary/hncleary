@@ -51,6 +51,33 @@
   </tr>
   <tr style="padding: 4px 8px; font-size: 0.9em; line-height: 1.3;">
     <td style="padding: 4px 8px; font-size: 0.9em; line-height: 1.3;">
+      <img src="./assets/images/void_miner.png" style="width:35px; height: auto; max-height: 35px; object-fit: contain;">
+      </td>
+      <td style="padding: 4px 8px; font-size: 0.9em; line-height: 1.3;">
+        <div style="font-size: 0.95em; margin: 0;">
+          <b>
+          Void Miner
+        </b>
+      </div>
+      <div style="font-size: 0.85em; color: #666; margin-top: 2px;">
+        Infinite asteroid mining in cold dark space
+      </div>
+    </td>
+    <td style="padding: 4px 8px; font-size: 0.9em; line-height: 1.3;">
+      <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 4px 8px; align-items: center;">
+        <a href="https://cyranek.itch.io/void-miner">
+          <img style="width:16px; height: auto; max-height: 16px; vertical-align: middle; margin-right: 4px;" src="./assets/icons/itchio.png" />
+          itch.io
+        </a>
+        <a href="https://www.newgrounds.com/portal/view/1007771">
+          <img style="width:16px; height: auto; max-height: 16px; vertical-align: middle; margin-right: 4px;" src="./assets/icons/newgrounds.png" />
+          Newgrounds
+        </a>
+      </div>
+    </td>
+  </tr>
+  <tr style="padding: 4px 8px; font-size: 0.9em; line-height: 1.3;">
+    <td style="padding: 4px 8px; font-size: 0.9em; line-height: 1.3;">
       <img src="./assets/images/ski-freak.png" style="width:35px; height: auto; max-height: 35px; object-fit: contain;">
       </td>
       <td style="padding: 4px 8px; font-size: 0.9em; line-height: 1.3;">
