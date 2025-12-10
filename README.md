@@ -136,6 +136,10 @@
     </td>
     <td style="padding: 4px 8px; font-size: 0.9em; line-height: 1.3;">
       <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 4px 8px; align-items: center;">
+        <a href="https://www.vanityplate.social/home">
+          <img style="width:16px; height: auto; max-height: 16px; vertical-align: middle; margin-right: 4px;" src="./assets/icons/globe.png" />
+          Site
+        </a>
         <a href="https://github.com/hncleary/vanity-plate-ng">
           <img style="width:16px; height: auto; max-height: 16px; vertical-align: middle; margin-right: 4px;" src="./assets/icons/github.png" />
           Site Source
@@ -143,10 +147,6 @@
         <a href="https://github.com/hncleary/vanity-plate-pr">
           <img style="width:16px; height: auto; max-height: 16px; vertical-align: middle; margin-right: 4px;" src="./assets/icons/github.png" />
           Retrieval
-        </a>
-        <a href="https://www.vanityplate.social/home">
-          <img style="width:16px; height: auto; max-height: 16px; vertical-align: middle; margin-right: 4px;" src="./assets/icons/globe.png" />
-          Website
         </a>
       </div>
     </td>
@@ -169,7 +169,7 @@
       <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 4px 8px; align-items: center;">
         <a href="https://black-water-0be05fd10.5.azurestaticapps.net/home">
           <img style="width:16px; height: auto; max-height: 16px; vertical-align: middle; margin-right: 4px;" src="./assets/icons/globe.png" />
-          Website
+          Site
         </a>
         <a href="https://github.com/hncleary/duuzu-key-bpm-db">
           <img style="width:16px; height: auto; max-height: 16px; vertical-align: middle; margin-right: 4px;" src="./assets/icons/github.png" />

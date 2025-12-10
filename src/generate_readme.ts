@@ -88,6 +88,11 @@ export const DEFINED_PROJECTS: ProjectDetails[] = [
     description: 'Consolidated retrieval and display of social media stats',
     links: [
       {
+        displayName: 'Site',
+        link: 'https://www.vanityplate.social/home',
+        icon: 'globe.png',
+      },
+      {
         displayName: 'Site Source',
         link: 'https://github.com/hncleary/vanity-plate-ng',
         icon: 'github.png',
@@ -97,11 +102,6 @@ export const DEFINED_PROJECTS: ProjectDetails[] = [
         link: 'https://github.com/hncleary/vanity-plate-pr',
         icon: 'github.png',
       },
-      {
-        displayName: 'Website',
-        link: 'https://www.vanityplate.social/home',
-        icon: 'globe.png',
-      },
     ],
   },
   {
@@ -110,7 +110,7 @@ export const DEFINED_PROJECTS: ProjectDetails[] = [
     description: 'Searchable song key and bpm database website for DJs',
     links: [
       {
-        displayName: 'Website',
+        displayName: 'Site',
         link: 'https://black-water-0be05fd10.5.azurestaticapps.net/home',
         icon: 'globe.png',
       },
