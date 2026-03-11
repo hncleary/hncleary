@@ -1,5 +1,4 @@
-### Howdy 👋
-
+### Howdy 👋 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=hncleary" alt="hncleary"/>
 </p>
@@ -61,7 +60,7 @@
         </b>
       </div>
       <div style="font-size: 0.85em; color: #666; margin-top: 2px;">
-        Infinite asteroid mining in cold dark space
+        Infinite idle asteroid mining
       </div>
     </td>
     <td style="padding: 4px 8px; font-size: 0.9em; line-height: 1.3;">

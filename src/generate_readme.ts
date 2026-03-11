@@ -45,7 +45,7 @@ export const DEFINED_PROJECTS: ProjectDetails[] = [
   {
     displayName: 'Void Miner',
     image: 'void_miner.png',
-    description: 'Infinite asteroid mining in cold dark space',
+    description: 'Infinite idle asteroid mining',
     links: [
       {
         displayName: 'itch.io',
