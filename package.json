@@ -27,5 +27,6 @@
     "ts-node": "^10.9.0",
     "prettier": "^3.1.0"
   },
-  "dependencies": {}
+  "dependencies": {},
+  "packageManager": "pnpm@9.5.0+sha1.8c155dc114e1689d18937974f6571e0ceee66f1d"
 }

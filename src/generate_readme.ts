@@ -62,8 +62,14 @@ export const DEFINED_PROJECTS: ProjectDetails[] = [
   {
     displayName: 'Ski Freak',
     image: 'ski-freak.png',
-    description: 'Coming Soon',
-    links: [],
+    description: 'One tap endless skiing arcade game',
+    links: [
+      {
+        displayName: 'Steam (Coming Soon)',
+        link: 'https://store.steampowered.com/app/3664680/Ski_Freak',
+        icon: 'steam.png',
+      },
+    ],
   },
   {
     displayName: 'ch8t-GPT',
