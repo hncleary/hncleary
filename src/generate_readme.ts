@@ -65,7 +65,17 @@ export const DEFINED_PROJECTS: ProjectDetails[] = [
     description: 'One tap endless skiing arcade game',
     links: [
       {
-        displayName: 'Steam (Coming Soon)',
+        displayName: 'itch.io',
+        link: 'https://cyranek.itch.io/ski-freak',
+        icon: 'itchio.png',
+      },
+      {
+        displayName: 'Newgrounds',
+        link: 'https://www.newgrounds.com/portal/view/1023135',
+        icon: 'newgrounds.png',
+      },
+      {
+        displayName: 'Steam',
         link: 'https://store.steampowered.com/app/3664680/Ski_Freak',
         icon: 'steam.png',
       },
