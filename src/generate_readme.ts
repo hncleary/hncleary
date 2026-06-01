@@ -82,6 +82,12 @@ export const DEFINED_PROJECTS: ProjectDetails[] = [
     ],
   },
   {
+    displayName: 'Jumper',
+    image: 'jumper_logo.png',
+    description: 'Coming Soon',
+    links: [],
+  },
+  {
     displayName: 'ch8t-GPT',
     image: 'ch8t_gpt_logo.png',
     description: "The world's most powerful LLM AI chat bot powered by divination",

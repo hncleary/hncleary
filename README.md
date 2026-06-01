@@ -109,6 +109,23 @@
   </tr>
   <tr style="padding: 4px 8px; font-size: 0.9em; line-height: 1.3;">
     <td style="padding: 4px 8px; font-size: 0.9em; line-height: 1.3;">
+      <img src="./assets/images/jumper_logo.png" style="width:35px; height: auto; max-height: 35px; object-fit: contain;">
+      </td>
+      <td style="padding: 4px 8px; font-size: 0.9em; line-height: 1.3;">
+        <div style="font-size: 0.95em; margin: 0;">
+          <b>
+          Jumper
+        </b>
+      </div>
+      <div style="font-size: 0.85em; color: #666; margin-top: 2px;">
+        Coming Soon
+      </div>
+    </td>
+    <td style="padding: 4px 8px; font-size: 0.9em; line-height: 1.3;">
+    </td>
+  </tr>
+  <tr style="padding: 4px 8px; font-size: 0.9em; line-height: 1.3;">
+    <td style="padding: 4px 8px; font-size: 0.9em; line-height: 1.3;">
       <img src="./assets/images/ch8t_gpt_logo.png" style="width:35px; height: auto; max-height: 35px; object-fit: contain;">
       </td>
       <td style="padding: 4px 8px; font-size: 0.9em; line-height: 1.3;">
