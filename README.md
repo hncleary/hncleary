@@ -118,10 +118,16 @@
         </b>
       </div>
       <div style="font-size: 0.85em; color: #666; margin-top: 2px;">
-        Coming Soon
+        High score hopper arcade game
       </div>
     </td>
     <td style="padding: 4px 8px; font-size: 0.9em; line-height: 1.3;">
+      <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 4px 8px; align-items: center;">
+        <a href="https://store.steampowered.com/app/5050840/Jumper/">
+          <img style="width:16px; height: auto; max-height: 16px; vertical-align: middle; margin-right: 4px;" src="./assets/icons/steam.png" />
+          Steam
+        </a>
+      </div>
     </td>
   </tr>
   <tr style="padding: 4px 8px; font-size: 0.9em; line-height: 1.3;">

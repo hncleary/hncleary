@@ -84,8 +84,14 @@ export const DEFINED_PROJECTS: ProjectDetails[] = [
   {
     displayName: 'Jumper',
     image: 'jumper_logo.png',
-    description: 'Coming Soon',
-    links: [],
+    description: 'High score hopper arcade game',
+    links: [
+      {
+        displayName: 'Steam',
+        link: 'https://store.steampowered.com/app/5050840/Jumper/',
+        icon: 'steam.png',
+      },
+    ],
   },
   {
     displayName: 'ch8t-GPT',
