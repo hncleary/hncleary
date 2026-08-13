@@ -87,6 +87,16 @@ export const DEFINED_PROJECTS: ProjectDetails[] = [
     description: 'High score hopper arcade game',
     links: [
       {
+        displayName: 'itch.io',
+        link: 'https://cyranek.itch.io/jumper',
+        icon: 'itchio.png',
+      },
+      {
+        displayName: 'Newgrounds',
+        link: 'https://www.newgrounds.com/portal/view/1046725',
+        icon: 'newgrounds.png',
+      },
+      {
         displayName: 'Steam',
         link: 'https://store.steampowered.com/app/5050840/Jumper/',
         icon: 'steam.png',
